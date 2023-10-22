@@ -1,2 +1,2 @@
 # Let-s-React
-My daily progress on React
+My progress on React
